@@ -2,4 +2,4 @@
 Develop his chatting server
 
 ***
-dongcheol ryu, kiwon seo, jaehoon lim
+dongcheol ryu, kiwon seo, jaehoon lim, jitae yoo
