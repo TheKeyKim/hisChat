@@ -2,4 +2,4 @@
 Develop his chatting server
 
 ***
-dongcheol ryu fuck
+dongcheol ryu, kiwon seo
